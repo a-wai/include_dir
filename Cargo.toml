@@ -6,6 +6,7 @@ resolver = "2"
 edition = "2021"
 rust-version = "1.64"
 license = "MIT"
+license-file = "LICENSE"
 readme = "README.md"
 version = "0.7.4"
 authors = ["Michael Bryan <michaelfbryan@gmail.com>"]
